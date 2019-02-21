@@ -4,7 +4,7 @@
 #include <ctime>
 #include <math.h>
 #include <glm/glm.hpp>
-#include "camera.h"
+#include "Camera.h"
 #include "texture.h"
 #include "shader.h"
 
